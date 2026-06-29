@@ -10,8 +10,16 @@
 </div>
 
 ---
-
-### 🧑‍💻 About Me
+ 
+### Hi there 👋
+ 
+### About Me ✨
+ 
+I'm an **MS Computer Science student** at Northeastern University with a background spanning AI/ML, full-stack development, and data science. I love building systems that sit at the intersection of intelligent models and real-world applications — from auditing bias in automated hiring pipelines to deploying full-stack learning platforms. I'm passionate about writing clean, impactful code and always looking for problems worth solving.
+ 
+---
+ 
+### 🧑‍💻 More About Me
 
 ```terminal
 jay@northeastern:~$ whoami
