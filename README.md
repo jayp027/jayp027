@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Greeting -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;MS+CS+%40+Northeastern+University;Building+at+the+intersection+of+AI+%26+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;MS+CS+%40+Northeastern+University" alt="Typing SVG" />
 
 <br/>
 
