@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Greeting -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;MS+CS+%40+Northeastern+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jay+%F0%9F%91%8B;MS+CS+%40+Northeastern+University;Building+at+the+intersection+of+AI+%26+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,6 @@ jay@northeastern:~$ ls experience/
 
 jay@northeastern:~$ current_status
 └─> 📚 Coursework: Generative AI, Algorithms, NLP, Programming Design Paradigms
-└─> 🔬 Research: Prestige & Quantification Bias in AI Resume Screening
 └─> 🌱 Always building something new
 ```
 
@@ -42,9 +41,10 @@ jay@northeastern:~$ current_status
 | Project | Stack | Highlights |
 |---|---|---|
 | **🎓 Kambaz – LMS** | Next.js · React · Redux · Node.js · MongoDB · TypeScript | 20+ REST endpoints; 60% query speed improvement via compound indexing; deployed on Vercel |
+| **🔍 Algorithmic Bias in Resume Scoring** | Python · Scikit-learn · Sentence-BERT · Llama 3.1-8B · R | CS6120 course project — 2×2 factorial audit across 120 synthetic resumes; prompt ablation revealed prestige bias as emergent from LLM world knowledge |
 | **🌍 Multilingual Summarizer** | Python · Streamlit · BART · Google Translate API · gTTS | Real-time text summarization, translation & audio generation across multiple languages |
 | **📈 Wage & Parity Index Forecasting** | R | Linear regression models predicting wages, inflation & median income across 2000–2020 global data |
-| **🧠 Kushi AI – Mental Health Chatbot** | ML · UX/UI | Contributed ML analysis on mental health survey data; improved user engagement via UX enhancements |
+| **🧠 Kushi AI – Mental Health Chatbot** | ML · UX/UI | ML analysis on mental health survey data; improved user engagement via UX enhancements |
 
 ---
 
