@@ -48,8 +48,8 @@ jay@northeastern:~$ current_status
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **🎓 Kambaz – LMS** | Next.js · React · Redux · Node.js · MongoDB · TypeScript | 20+ REST endpoints; 60% query speed improvement via compound indexing; deployed on Vercel |
 | **🔍 Algorithmic Bias in Resume Scoring** | Python · Scikit-learn · Sentence-BERT · Llama 3.1-8B · R | CS6120 course project — 2×2 factorial audit across 120 synthetic resumes; prompt ablation revealed prestige bias as emergent from LLM world knowledge |
+| **🎓 Kambaz – LMS** | Next.js · React · Redux · Node.js · MongoDB · TypeScript | 20+ REST endpoints; 60% query speed improvement via compound indexing; deployed on Vercel |
 | **🌍 Multilingual Summarizer** | Python · Streamlit · BART · Google Translate API · gTTS | Real-time text summarization, translation & audio generation across multiple languages |
 | **📈 Wage & Parity Index Forecasting** | R | Linear regression models predicting wages, inflation & median income across 2000–2020 global data |
 | **🧠 Kushi AI – Mental Health Chatbot** | ML · UX/UI | ML analysis on mental health survey data; improved user engagement via UX enhancements |
